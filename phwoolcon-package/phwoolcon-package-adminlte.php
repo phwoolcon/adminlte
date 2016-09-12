@@ -1,6 +1,6 @@
 <?php
 return [
-    'appgame/phwoolcon-package-adminlte' => [
+    'phwoolcon-packages/phwoolcon-AdminLTE' => [
         'assets' => [
             "AdminLTE/bootstrap/css/bootstrap.css",
             "AdminLTE/bootstrap/css/bootstrap.css.map",
