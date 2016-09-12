@@ -1,5 +1,5 @@
 {
-    "name": "phwoolcon/AdminLTE",
+    "name": "phwoolcon-packages/phwoolcon-AdminLTE",
     "description": "AdminLTE for phwoolcon",
     "keywords": ["phwoolcon", "AdminLTE"],
     "type": "library",
