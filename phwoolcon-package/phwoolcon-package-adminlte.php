@@ -12,6 +12,7 @@ return [
             'codemirror-json-js' => [
                 'codemirror-5.19.0/lib/codemirror.js',
                 'codemirror-5.19.0/addon/edit/matchbrackets.js',
+                'codemirror-5.19.0/addon/edit/closebrackets.js',
                 'codemirror-5.19.0/addon/comment/continuecomment.js',
                 'codemirror-5.19.0/addon/comment/comment.js',
                 'codemirror-5.19.0/addon/display/autorefresh.js',
