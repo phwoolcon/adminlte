@@ -20,7 +20,7 @@ $(function () {
     $('#sureDoDelete').click(function () {
         var _this = $(this);
         var _url = _this.attr('data-url'), _id = _this.attr('data-id');
-        $.post(_url, {id: _id}, function (response) {
+        $.post(_url, {'id': _id, '_token': $('#doDelete').find('input[name="_token"]').val()}, function (response) {
             $('#doDelete').modal('hide');
             doAlert(response.msg);
         });
