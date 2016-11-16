@@ -1,6 +1,6 @@
 <?php
 return [
-    'appgame/phwoolcon-AdminLTE' => [
+    'phwoolcon/adminlte' => [
         'admin_assets' => [
             'adminlte-css' => [
             ],
