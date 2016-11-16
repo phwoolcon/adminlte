@@ -1,6 +1,6 @@
 {
-    "name": "appgame/phwoolcon-AdminLTE",
-    "description": "AdminLTE for phwoolcon",
+    "name": "phwoolcon/adminlte",
+    "description": "AdminLTE for Phwoolcon",
     "keywords": ["phwoolcon", "AdminLTE"],
     "type": "library",
     "license": "proprietary",
