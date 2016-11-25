@@ -1,0 +1,9 @@
+.table-hover > tbody > tr.disabled:hover > td,
+.disabled > td{
+    background-color:#dedede;
+}
+
+.nav-pills > li.active > a{
+    color:#fff;
+    background-color:#337ab7;
+}

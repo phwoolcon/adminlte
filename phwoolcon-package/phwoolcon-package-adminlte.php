@@ -2,9 +2,24 @@
 return [
     'phwoolcon/adminlte' => [
         'admin_assets' => [
+            'head-js' => [
+                'AdminLTE/plugins/jQuery/jQuery-2.2.0.min.js',
+            ],
             'adminlte-css' => [
+                'AdminLTE/bootstrap/css/bootstrap.css',
+                'AdminLTE/plugins/font-awesome-4.6.3/css/font-awesome.css',
+                'AdminLTE/plugins/ionicons/css/ionicons.css',
+                'AdminLTE/css/AdminLTE.css',
+                'AdminLTE/css/skins/_all-skins.css',
+                'AdminLTE/phwoolcon/tune.css',
             ],
             'adminlte-js' => [
+                'AdminLTE/plugins/jQueryUI/jquery-ui.min.js',
+                'AdminLTE/bootstrap/js/bootstrap.min.js',
+                'AdminLTE/plugins/slimScroll/jquery.slimscroll.min.js',
+                'AdminLTE/plugins/fastclick/fastclick.js',
+                'AdminLTE/js/app.min.js',
+                'AdminLTE/js/common.js',
             ],
             'codemirror-css' => [
                 'codemirror-5.19.0/lib/codemirror.css',
