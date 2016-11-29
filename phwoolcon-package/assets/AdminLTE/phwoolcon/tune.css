@@ -7,3 +7,7 @@
     color:#fff;
     background-color:#337ab7;
 }
+
+.sidebar-menu li.treeview .treeview-menu li.active{
+    background:#e4e4e5;
+}
