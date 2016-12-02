@@ -9,6 +9,7 @@ return [
                 'AdminLTE/bootstrap/css/bootstrap.css',
                 'AdminLTE/plugins/font-awesome-4.6.3/css/font-awesome.css',
                 'AdminLTE/plugins/ionicons/css/ionicons.css',
+                'AdminLTE/plugins/select2/select2.min.css',
                 'AdminLTE/css/AdminLTE.css',
                 'AdminLTE/css/skins/_all-skins.css',
                 'AdminLTE/phwoolcon/tune.css',
@@ -16,6 +17,8 @@ return [
             'adminlte-js' => [
                 'AdminLTE/plugins/jQueryUI/jquery-ui.min.js',
                 'AdminLTE/bootstrap/js/bootstrap.min.js',
+                'AdminLTE/plugins/select2/select2.full.min.js',
+                'AdminLTE/plugins/select2/i18n/zh-CN.js',
                 'AdminLTE/plugins/slimScroll/jquery.slimscroll.min.js',
                 'AdminLTE/plugins/fastclick/fastclick.js',
                 'AdminLTE/js/app.min.js',
