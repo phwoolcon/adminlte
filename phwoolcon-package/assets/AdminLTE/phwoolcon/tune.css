@@ -8,6 +8,10 @@
     background-color:#337ab7;
 }
 
+.sidebar-menu > li > a{
+    padding-left:5px;
+}
+
 .sidebar-menu li.treeview .treeview-menu li.active{
     background:#e4e4e5;
 }
