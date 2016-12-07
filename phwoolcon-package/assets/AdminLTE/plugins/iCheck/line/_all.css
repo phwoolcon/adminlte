@@ -26,7 +26,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line.hover,
@@ -100,7 +100,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line-red.hover,
@@ -174,7 +174,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line-green.hover,
@@ -248,7 +248,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line-blue.hover,
@@ -322,7 +322,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line-aero.hover,
@@ -396,7 +396,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line-grey.hover,
@@ -470,7 +470,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line-orange.hover,
@@ -544,7 +544,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line-yellow.hover,
@@ -618,7 +618,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line-pink.hover,
@@ -692,7 +692,7 @@
         margin: -5px 0 0 0;
         padding: 0;
         overflow: hidden;
-        background: url(line.png) no-repeat;
+        background: url(/assets/AdminLTE/plugins/iCheck/line/line.png) no-repeat;
         border: none;
     }
     .icheckbox_line-purple.hover,

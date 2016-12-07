@@ -9,7 +9,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(square.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/square.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -71,7 +71,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(red.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/red.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -133,7 +133,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(green.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/green.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -195,7 +195,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(blue.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/blue.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -257,7 +257,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(aero.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/aero.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -319,7 +319,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(grey.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/grey.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -381,7 +381,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(orange.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/orange.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -443,7 +443,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(yellow.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/yellow.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -505,7 +505,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(pink.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/pink.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -567,7 +567,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(purple.png) no-repeat;
+    background: url(/assets/AdminLTE/plugins/iCheck/square/purple.png) no-repeat;
     border: none;
     cursor: pointer;
 }
