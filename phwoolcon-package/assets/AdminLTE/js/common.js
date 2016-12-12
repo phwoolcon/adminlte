@@ -6,10 +6,6 @@ $(function () {
         }
     });
 
-    $('#doAlert').on('hidden.bs.modal', function (event) {
-        location.reload();
-    });
-
     $('#doDelete').on('show.bs.modal', function (event) {
         var button = $(event.relatedTarget);
         var name = button.data('name');
@@ -17,12 +13,14 @@ $(function () {
         modal.find('.modal-body').text(name);
         modal.find('.modal-footer .btn-primary').attr('data-url', button.data('url')).attr('data-id', button.data('id'));
     });
+
     $('#sureDoDelete').click(function () {
         var _this = $(this);
         var _url = _this.attr('data-url'), _id = _this.attr('data-id');
         $.post(_url, {'id': _id, '_token': $('#doDelete').find('input[name="_token"]').val()}, function (response) {
             $('#doDelete').modal('hide');
             doAlert(response.msg);
+            location.reload();
         });
     });
     $('[data-toggle="tooltip"]').tooltip({
