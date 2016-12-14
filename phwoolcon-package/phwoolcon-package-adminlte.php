@@ -43,6 +43,13 @@ return [
                 'codemirror-5.19.0/addon/display/autorefresh.js',
                 'codemirror-5.19.0/mode/javascript/javascript.js',
             ],
+            'file-tree-css' => [
+                'jquery.fileTree-1.01/jqueryFileTree.css',
+            ],
+            'file-tree-js' => [
+                'jquery.fileTree-1.01/jquery.easing.js',
+                'jquery.fileTree-1.01/jqueryFileTree.js',
+            ],
         ],
     ],
 ];

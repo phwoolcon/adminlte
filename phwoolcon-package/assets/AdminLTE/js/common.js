@@ -28,8 +28,11 @@ $(function () {
     });
 });
 
-function doAlert(msg) {
+function doAlert(msg, callback) {
     var doAlert = $('#doAlert');
     doAlert.find('.modal-body').text(msg);
     doAlert.modal('show');
+    doAlert.on('hide.bs.modal', function (event) {
+        callback ? callback() : '';
+    });
 }
