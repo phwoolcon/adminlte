@@ -50,6 +50,12 @@ return [
                 'jquery.fileTree-1.01/jquery.easing.js',
                 'jquery.fileTree-1.01/jqueryFileTree.js',
             ],
+            'layer-pc-js' => [
+                'layer/layer.js',
+            ],
+            'layer-mobile-js' => [
+                'layer/mobile/layer.js',
+            ],
         ],
     ],
 ];
