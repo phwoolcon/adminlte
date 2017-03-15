@@ -52,6 +52,7 @@ return [
             ],
             'layer-pc-js' => [
                 'layer/layer.js',
+                'laydate/laydate.js',
             ],
             'layer-mobile-js' => [
                 'layer/mobile/layer.js',
