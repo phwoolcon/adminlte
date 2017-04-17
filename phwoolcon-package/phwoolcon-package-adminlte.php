@@ -3,7 +3,7 @@ return [
     'phwoolcon/adminlte' => [
         'admin_assets' => [
             'head-js' => [
-                'AdminLTE/plugins/jQuery/jQuery-2.2.0.min.js',
+                'AdminLTE/plugins/jQuery/jQuery-2.2.3.min.js',
             ],
             'adminlte-css' => [
                 'AdminLTE/bootstrap/css/bootstrap.css',
@@ -29,7 +29,7 @@ return [
                 'AdminLTE/plugins/slimScroll/jquery.slimscroll.min.js',
                 'AdminLTE/plugins/fastclick/fastclick.js',
                 'AdminLTE/js/app.min.js',
-                'AdminLTE/js/common.js',
+                'AdminLTE/phwoolcon/common.js',
             ],
             'codemirror-css' => [
                 'codemirror-5.19.0/lib/codemirror.css',
