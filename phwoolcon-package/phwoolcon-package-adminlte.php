@@ -8,7 +8,6 @@ return [
             'adminlte-css' => [
                 'AdminLTE/bootstrap/css/bootstrap.css',
                 'AdminLTE/plugins/font-awesome-4.6.3/css/font-awesome.css',
-                'AdminLTE/plugins/ionicons/css/ionicons.css',
                 'AdminLTE/plugins/select2/select2.min.css',
                 'AdminLTE/plugins/iCheck/minimal/_all.css',
                 'AdminLTE/plugins/iCheck/square/_all.css',
