@@ -3,7 +3,7 @@ return [
     'phwoolcon/adminlte' => [
         'admin_assets' => [
             'head-js' => [
-                'AdminLTE/plugins/jQuery/jQuery-2.2.3.min.js',
+                'AdminLTE/plugins/jQuery/jquery-2.2.3.min.js',
             ],
             'adminlte-css' => [
                 'AdminLTE/bootstrap/css/bootstrap.css',
