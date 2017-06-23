@@ -3,7 +3,7 @@
     "description": "AdminLTE for Phwoolcon",
     "keywords": ["phwoolcon", "AdminLTE"],
     "type": "library",
-    "license": "proprietary",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Christopher CHEN",
